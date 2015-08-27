@@ -1,1 +1,1 @@
-console.log("Hello semantic!");
+console.log("God dag! Hvor er du?");
