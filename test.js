@@ -1,1 +1,2 @@
-process.exit(1);
+var ret = 0;
+process.exit(ret);
