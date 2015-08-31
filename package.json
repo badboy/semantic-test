@@ -7,7 +7,9 @@
     "test": "node test.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "dependencies": {},
+  "dependencies": {
+    "hiredis": "^0.4.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/badboy/semantic-test"
