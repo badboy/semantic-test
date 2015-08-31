@@ -13,5 +13,7 @@ node_js:
   - '0.10'
 before_script:
   - npm prune
+  - gcc --version
+  - g++ --version
 after_success:
   - npm run semantic-release
