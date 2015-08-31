@@ -8,7 +8,6 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "dependencies": {
-    "hiredis": "^0.4.1"
   },
   "repository": {
     "type": "git",
